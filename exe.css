@@ -1,0 +1,25 @@
+body{
+    background: url(test.jpg);
+    background-position: center;
+}
+body{
+    text-align: center;
+    color:darkblue;
+}
+div{
+    text-align: center;
+    color: burlywood;
+    margin: auto;
+  width: 600px;
+    background: url(Anand.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.hello{
+    background: crimson;
+    color: darkgray;
+}
+.me{
+    background: darksalmon;
+    color: black;
+}
